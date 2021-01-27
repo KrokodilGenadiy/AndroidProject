@@ -1,0 +1,2 @@
+rootProject.name='ZAUS_FIRST_PROJECT'
+include ':app'
